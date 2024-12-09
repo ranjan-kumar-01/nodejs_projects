@@ -8,7 +8,6 @@ const main = async () => {
 };
 main();
 
-
 // method:2
 dbConnect().then((response) => {
   response
